@@ -1,7 +1,6 @@
 # ASPNET-Week-1
 
-Created a product controller called "ProductController" with an Index action that takes the "ProductList" list from the "Product" model.
-ProductController allows the Index view to interact with the product list in the Product model.
+Added a controller called "ProductController" with an Index action that takes the "ProductList" list from the "Product" model and returns it to the Index View.
 
 The view iterates through the list and displays each entry using an html table.
 
